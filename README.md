@@ -20,4 +20,4 @@ command line here are some
 <http://bit.ly/usingvi>
 
 ### Do it!
-[Start the lab here](03_collaboration_.md)
+[Start the lab here](03_collaboration.md)
